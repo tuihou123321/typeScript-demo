@@ -1,26 +1,6 @@
-//申明定义
-var age = 12;
-//类型不符
-age = "abc";
-//不申明
-var city = "shangHai";
-//类型推断
-city = 123;
-console.log(city);
-//可以是任意值
-var value = "iphone";
-value = 13;
 //为函数设置返回值
 function getUserName() {
-    return "xiaoming";
-}
-//返回的类型不符号
-function getUserAge() {
-    return "a";
-}
-//返回的类型不符号
-function getUserId() {
-    return "a";
+    return 1;
 }
 //不需要返回值
 function startLogin() {

@@ -1,31 +1,6 @@
-//申明定义
-let age:number=12;
-//类型不符
-age="abc"
-
-//不申明
-let city="shangHai";
-//类型推断
-city=123;
-console.log(city);
-
-//可以是任意值
-let value:any="iphone";
-value=13;
-
 //为函数设置返回值
 function getUserName():string{
-    return "xiaoming";
-}
-
-//返回的类型不符号
-function getUserAge():number{
-    return "a"
-}
-
-//返回的类型不符号
-function getUserId():any{
-    return "a"
+    return 1;
 }
 
 //不需要返回值
