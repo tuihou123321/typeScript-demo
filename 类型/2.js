@@ -28,6 +28,13 @@ function getLength(a, b, c) {
     return a.length + (b ? b.length : 0) + 1;
 }
 getLength("hello");
+function getString(value) {
+    return value.toString;
+}
+//只能访问联合属性的共同方法；
+function getValueLength(value) {
+    return value.length; //报错，
+}
 //类型
 /*
 array,

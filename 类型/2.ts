@@ -32,6 +32,15 @@ function getLength(a:string,b?:string,c:number=1){
 getLength("hello");
 
 
+function getString(value:string | number){
+    return value.toString;
+}
+
+//只能访问联合属性的共同方法；
+function getValueLength(value:string | number){
+    return value.length; //报错，
+}
+
 //类型
 /*
 array,
