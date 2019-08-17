@@ -2,6 +2,16 @@
 * 函数类型的定义
 * */
 
+//为函数设置返回值
+function getUserName():string{
+    return 1;
+}
+
+//不需要返回值
+function startLogin():void{
+    return 10;
+}
+
 function isVersion(currentVersion?:string,oldVersion?:string):boolean{
     return true;
 }

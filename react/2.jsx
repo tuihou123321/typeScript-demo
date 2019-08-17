@@ -14,15 +14,15 @@ var __extends = (this && this.__extends) || (function () {
 })();
 Object.defineProperty(exports, "__esModule", { value: true });
 var react_1 = require("react");
-var Button = /** @class */ (function (_super) {
-    __extends(Button, _super);
-    function Button() {
+var Header = /** @class */ (function (_super) {
+    __extends(Header, _super);
+    function Header() {
         return _super !== null && _super.apply(this, arguments) || this;
     }
-    Button.prototype.render = function () {
+    Header.prototype.render = function () {
         return (<div>11</div>);
     };
-    return Button;
+    return Header;
 }(react_1.Component));
 var Home = /** @class */ (function (_super) {
     __extends(Home, _super);

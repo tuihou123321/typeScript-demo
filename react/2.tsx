@@ -1,12 +1,11 @@
 import React,{ Component } from "react"
-import PropTypes from "PropTypes"
 
 interface HeaderProps{
     title:string;
     backgroundColor?:"white" | "deep";
 }
 
-class Button extends Component{
+class Header extends Component<HeaderProps>{
     render(){
         return (
              <div>11</div>

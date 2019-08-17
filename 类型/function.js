@@ -1,6 +1,14 @@
 /*
 * 函数类型的定义
 * */
+//为函数设置返回值
+function getUserName() {
+    return 1;
+}
+//不需要返回值
+function startLogin() {
+    return 10;
+}
 function isVersion(currentVersion, oldVersion) {
     return true;
 }
