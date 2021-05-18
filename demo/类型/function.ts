@@ -68,3 +68,14 @@ function reverse2(x:number | string):number | string{
     }
 }
 console.log(reverse2(123));
+
+
+// 用接口形式定义函数
+interface Add {
+    (a:number, b:number ): number
+}
+let add:Add = function(a,b){
+    return a+b;
+}
+
+

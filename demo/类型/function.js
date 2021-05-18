@@ -54,3 +54,6 @@ function reverse2(x) {
     }
 }
 console.log(reverse2(123));
+var add = function (a, b) {
+    return a + b;
+};

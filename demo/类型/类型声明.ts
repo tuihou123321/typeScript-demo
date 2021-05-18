@@ -9,7 +9,7 @@ let city="shangHai";
 city=123;
 console.log(city);
 
-//不申请默认是any: 等价于 let inputValue:any;
+//不声明默认是any: 等价于 let inputValue:any;
 let inputValue;
 inputValue=1;
 inputValue="a";
