@@ -1,16 +1,8 @@
+// 方式一：使用as
+window.a=1; // 报错，window上没有a属性
+(window as any).a=1; // 正常显示
 
-// window全局对象
-window.a=10;   // 报错 window 对象定义a 这个属性
-(window as any).a=10;   // 使用any断言，正常显示
 
-
-// 局部变量
-const IMSDK={
-    // 获取通讯录列表
-    getConcact(){
-        return [];
-    }
-}
-
-IMSDK.uid=1;  // 报错
-(IMSDK as any).uid=10; // 正常显示
+// 方式二：使用 <类型>值
+window.b=1; // 报错，window上没有b属性
+(<any>window).b=1; // 正常显示

@@ -1,4 +1,4 @@
-// 断言在函数中的运用
+// 断言在联合
 // 使用 (<string>.something).length 来断言
 function getLength(something) {
     // 使用<>来断言
