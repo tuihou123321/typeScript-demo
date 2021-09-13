@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f360a858-6d44-4bf4-a86f-9e9fd3d85c2f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/类型断言/ts支持if判断语句.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo/类型断言/ts支持if判断语句.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/类型断言/ts支持if判断语句.ts" beforeDir="false" afterPath="$PROJECT_DIR$/demo/类型断言/ts支持if判断语句.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/类型断言/断言在联合类型中的使用.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo/类型断言/断言在联合类型中的使用.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/类型断言/断言在联合类型中的使用.ts" beforeDir="false" afterPath="$PROJECT_DIR$/demo/类型断言/断言在联合类型中的使用.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/类型断言/断言的两种方式.ts" beforeDir="false" afterPath="$PROJECT_DIR$/demo/类型断言/断言的两种方式.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="tsconfig.json" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kzwsTqGVSB5C9wqsgNexiF1LzK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TypeScript" />
+    <property name="javascript.karma.karma_node_package_dir" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/demo/类型断言" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+    <property name="ts.external.directory.path" value="C:\Users\Administrator\AppData\Roaming\npm\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/demo/类型断言" />
+      <recent name="E:\web\myProject\typeScript-demo\demo\其他" />
+      <recent name="E:\web\myProject\typeScript-demo\demo\声明文件" />
+      <recent name="E:\web\myProject\typeScript-demo\demo\类型断言" />
+      <recent name="E:\web\myProject\typeScript-demo\demo\类型" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\web\myProject\typeScript-demo\demo" />
+      <recent name="E:\web\myProject\typeScript-demo\函数" />
+      <recent name="E:\web\myProject\typeScript-demo\demo\泛型" />
+      <recent name="E:\web\myProject\typeScript-demo\声明文件\jquery\src" />
+      <recent name="E:\web\myProject\typeScript-demo\声明文件\jquery" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f360a858-6d44-4bf4-a86f-9e9fd3d85c2f" name="Default Changelist" comment="" />
+      <created>1565879910484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565879910484</updated>
+      <workItem from="1565879912975" duration="7440000" />
+      <workItem from="1565913265798" duration="2314000" />
+      <workItem from="1565920071535" duration="18462000" />
+      <workItem from="1566004320107" duration="4796000" />
+      <workItem from="1566023064890" duration="3229000" />
+      <workItem from="1606716936944" duration="821000" />
+      <workItem from="1616033886360" duration="624000" />
+      <workItem from="1616036272887" duration="1015000" />
+      <workItem from="1619356208440" duration="2328000" />
+      <workItem from="1621304527406" duration="34905000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/demo/声明合并/接口的合并.js" />
+        <option value="$PROJECT_DIR$/demo/泛型/泛型约束.js" />
+        <option value="$PROJECT_DIR$/demo/其他/字面量类型.js" />
+        <option value="$PROJECT_DIR$/demo/其他/字面量类型2.js" />
+        <option value="$PROJECT_DIR$/demo/泛型/泛型接口.js" />
+        <option value="$PROJECT_DIR$/demo/类型/function-type.js" />
+        <option value="$PROJECT_DIR$/demo/声明合并/函数合并.js" />
+        <option value="$PROJECT_DIR$/demo/类型/function-interface.js" />
+        <option value="$PROJECT_DIR$/demo/类型断言/断言的两种方式.js" />
+        <option value="$PROJECT_DIR$/demo/类型断言/ts支持if判断语句.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="569" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1622029131057">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="569" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1622029131057" />
+    <state x="100" y="100" width="1480" height="850" key="DiffContextDialog" timestamp="1622030556230">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="100" y="100" width="1480" height="850" key="DiffContextDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1622030556230" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.ts</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
