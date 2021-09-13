@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8.ts" libraries="{@types/prettier}" />
+  </component>
+</project>

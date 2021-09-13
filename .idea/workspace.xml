@@ -2,20 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f360a858-6d44-4bf4-a86f-9e9fd3d85c2f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demo/其他/字面量类型.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/其他/字面量类型2.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/其他/类型别名.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/函数/函数重载.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/声明合并/函数合并.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/声明合并/接口的合并.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/类型断言/断言场景1-联合类型.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/类型断言/断言场景2-any.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/其他/Partial关键字-默认所有类型可选.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/其他/Partial关键字-默认所有类型可选.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/其他/Record关键字-类型组.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/其他/Record关键字-类型组.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/声明文件/jquery-type/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/声明文件/jquery-type/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/声明文件/jquery-type/node_modules/@types/jquery/JQuery.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/声明文件/jquery-type/node_modules/@types/jquery/JQueryStatic.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/声明文件/jquery-type/node_modules/@types/jquery/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/声明文件/jquery-type/node_modules/@types/jquery/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/声明文件/jquery-type/node_modules/@types/jquery/dist/jquery.slim.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/声明文件/jquery-type/node_modules/@types/jquery/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/声明文件/jquery-type/node_modules/@types/jquery/legacy.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/声明文件/jquery-type/node_modules/@types/jquery/misc.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/声明文件/jquery-type/node_modules/@types/jquery/node_modules/@types/sizzle/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/声明文件/jquery-type/node_modules/@types/jquery/node_modules/@types/sizzle/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/声明文件/jquery-type/node_modules/@types/jquery/node_modules/@types/sizzle/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/声明文件/jquery-type/node_modules/@types/jquery/node_modules/@types/sizzle/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/声明文件/jquery-type/node_modules/@types/jquery/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/声明文件/jquery-type/node_modules/@types/sizzle/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/声明文件/jquery-type/node_modules/@types/sizzle/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/声明文件/jquery-type/node_modules/@types/sizzle/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/声明文件/jquery-type/node_modules/@types/sizzle/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/声明文件/jquery-type/node_modules/_@types_jquery@3.5.5@@types/jquery/JQuery.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/声明文件/jquery-type/node_modules/_@types_jquery@3.5.5@@types/jquery/JQueryStatic.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/声明文件/jquery-type/node_modules/_@types_jquery@3.5.5@@types/jquery/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/声明文件/jquery-type/node_modules/_@types_jquery@3.5.5@@types/jquery/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/声明文件/jquery-type/node_modules/_@types_jquery@3.5.5@@types/jquery/dist/jquery.slim.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/声明文件/jquery-type/node_modules/_@types_jquery@3.5.5@@types/jquery/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/声明文件/jquery-type/node_modules/_@types_jquery@3.5.5@@types/jquery/legacy.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/声明文件/jquery-type/node_modules/_@types_jquery@3.5.5@@types/jquery/misc.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/声明文件/jquery-type/node_modules/_@types_jquery@3.5.5@@types/jquery/node_modules/@types/sizzle/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/声明文件/jquery-type/node_modules/_@types_jquery@3.5.5@@types/jquery/node_modules/@types/sizzle/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/声明文件/jquery-type/node_modules/_@types_jquery@3.5.5@@types/jquery/node_modules/@types/sizzle/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/声明文件/jquery-type/node_modules/_@types_jquery@3.5.5@@types/jquery/node_modules/@types/sizzle/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/声明文件/jquery-type/node_modules/_@types_jquery@3.5.5@@types/jquery/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/声明文件/jquery-type/node_modules/_@types_sizzle@2.3.3@@types/sizzle/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/声明文件/jquery-type/node_modules/_@types_sizzle@2.3.3@@types/sizzle/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/声明文件/jquery-type/node_modules/_@types_sizzle@2.3.3@@types/sizzle/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/声明文件/jquery-type/node_modules/_@types_sizzle@2.3.3@@types/sizzle/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/声明文件/jquery-type/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/枚举/枚举-手动修改-字符串枚举.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/枚举/枚举-手动修改-字符串枚举.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/枚举/枚举-手动修改-索引.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/枚举/枚举-手动修改-索引.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/枚举/枚举判断-默认.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/枚举/枚举判断-默认.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/枚举/正常枚举.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/枚举/正常枚举.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/声明合并/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo/声明合并/函数的合并.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/声明合并/1.ts" beforeDir="false" afterPath="$PROJECT_DIR$/demo/声明合并/函数的合并.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/声明文件/笔记.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/类型断言/断言使用的场景.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/类型断言/断言使用的场景.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/声明文件/jquery-declare/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo/声明文件/jquery-declare/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/声明文件/jquery-declare/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/demo/声明文件/jquery-declare/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/声明文件/jquery/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo/声明文件/jquery/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/声明文件/jquery/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/demo/声明文件/jquery/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/枚举/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/枚举/1.ts" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +71,7 @@
       <list>
         <option value="HTML File" />
         <option value="tsconfig.json" />
+        <option value="JavaScript File" />
         <option value="TypeScript File" />
       </list>
     </option>
@@ -41,32 +85,32 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TypeScript" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore&#10;HTML&#10;TypeScript" />
     <property name="javascript.karma.karma_node_package_dir" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/demo/其他" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="C:\Users\Administrator\AppData\Roaming\npm\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\web\myProject\typeScript-demo\demo\枚举" />
+      <recent name="E:\web\myProject\typeScript-demo\demo\其他" />
+      <recent name="E:\web\myProject\typeScript-demo\demo\声明文件" />
+      <recent name="E:\web\myProject\typeScript-demo\demo\类型断言" />
+      <recent name="E:\web\myProject\typeScript-demo\demo\类型" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\web\myProject\typeScript-demo\demo" />
       <recent name="E:\web\myProject\typeScript-demo\函数" />
       <recent name="E:\web\myProject\typeScript-demo\demo\泛型" />
       <recent name="E:\web\myProject\typeScript-demo\声明文件\jquery\src" />
       <recent name="E:\web\myProject\typeScript-demo\声明文件\jquery" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\web\myProject\typeScript-demo\demo\其他" />
-      <recent name="E:\web\myProject\typeScript-demo\demo\声明文件" />
-      <recent name="E:\web\myProject\typeScript-demo\demo\类型断言" />
-      <recent name="E:\web\myProject\typeScript-demo\demo\类型" />
-      <recent name="E:\web\myProject\typeScript-demo\demo\泛型" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -100,7 +144,16 @@
       <workItem from="1616033886360" duration="624000" />
       <workItem from="1616036272887" duration="1015000" />
       <workItem from="1619356208440" duration="2328000" />
-      <workItem from="1621304527406" duration="34905000" />
+      <workItem from="1621304527406" duration="37516000" />
+      <workItem from="1621562112113" duration="561000" />
+      <workItem from="1621563823184" duration="251000" />
+      <workItem from="1621835567759" duration="9045000" />
+      <workItem from="1621905879289" duration="2498000" />
+      <workItem from="1621929712475" duration="325000" />
+      <workItem from="1621930052911" duration="1073000" />
+      <workItem from="1622165724152" duration="599000" />
+      <workItem from="1622619973340" duration="2293000" />
+      <workItem from="1627547041839" duration="686000" />
     </task>
     <servers />
   </component>
@@ -117,17 +170,21 @@
     <option name="version" value="1" />
     <option name="exactExcludedFiles">
       <list>
-        <option value="$PROJECT_DIR$/demo/泛型/泛型接口.js" />
-        <option value="$PROJECT_DIR$/demo/类型断言/使用类型前缀来判言.js" />
-        <option value="$PROJECT_DIR$/demo/其他/字面量类型.js" />
-        <option value="$PROJECT_DIR$/demo/类型断言/ts支持if判断语句.js" />
-        <option value="$PROJECT_DIR$/demo/泛型/泛型约束.js" />
-        <option value="$PROJECT_DIR$/demo/其他/字面量类型2.js" />
-        <option value="$PROJECT_DIR$/demo/类型/function-interface.js" />
+        <option value="$PROJECT_DIR$/demo/声明合并/函数合并.js" />
         <option value="$PROJECT_DIR$/demo/类型/function-type.js" />
         <option value="$PROJECT_DIR$/demo/声明合并/接口的合并.js" />
-        <option value="$PROJECT_DIR$/demo/声明合并/函数合并.js" />
-        <option value="$PROJECT_DIR$/demo/类型/函数重载.js" />
+        <option value="$PROJECT_DIR$/demo/类型/function-interface.js" />
+        <option value="$PROJECT_DIR$/demo/其他/字面量类型2.js" />
+        <option value="$PROJECT_DIR$/demo/泛型/泛型约束.js" />
+        <option value="$PROJECT_DIR$/demo/类型断言/ts支持if判断语句.js" />
+        <option value="$PROJECT_DIR$/demo/其他/字面量类型.js" />
+        <option value="$PROJECT_DIR$/demo/声明文件/jquery-type/1.js" />
+        <option value="$PROJECT_DIR$/demo/类型断言/使用类型前缀来判言.js" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" />
+        <option value="$PROJECT_DIR$/demo/泛型/泛型接口.js" />
+        <option value="$PROJECT_DIR$/demo/其他/Partial关键字-默认所有类型可选.js" />
+        <option value="$PROJECT_DIR$/demo/模块/1.js" />
+        <option value="$PROJECT_DIR$/demo/模块/2.js" />
       </list>
     </option>
   </component>
@@ -150,7 +207,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.ts</url>
           <line>3</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
