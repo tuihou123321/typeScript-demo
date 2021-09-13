@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f360a858-6d44-4bf4-a86f-9e9fd3d85c2f" name="Default Changelist" comment="" />
+    <list default="true" id="f360a858-6d44-4bf4-a86f-9e9fd3d85c2f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/demo/命令空间/命令空间-取值1.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/命令空间/命令空间-取值2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/命令空间/命令空间-取值3.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/命令空间/命令空间-嵌套命令空间-取值1.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/命令空间/命令空间-嵌套命令空间-取值2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/命令空间/命令空间-嵌套命令空间-取值3.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/命令空间/命令空间-嵌套命令空间.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/命令空间/命令空间.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,13 +23,19 @@
       <list>
         <option value="HTML File" />
         <option value="tsconfig.json" />
-        <option value="JavaScript File" />
         <option value="TypeScript File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1kzwsTqGVSB5C9wqsgNexiF1LzK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -29,7 +45,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore&#10;HTML&#10;TypeScript" />
     <property name="javascript.karma.karma_node_package_dir" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/demo/命令空间" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
@@ -40,19 +56,19 @@
     <property name="ts.external.directory.path" value="C:\Users\Administrator\AppData\Roaming\npm\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\web\myProject\typeScript-demo\demo\枚举" />
-      <recent name="E:\web\myProject\typeScript-demo\demo\其他" />
-      <recent name="E:\web\myProject\typeScript-demo\demo\声明文件" />
-      <recent name="E:\web\myProject\typeScript-demo\demo\类型断言" />
-      <recent name="E:\web\myProject\typeScript-demo\demo\类型" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\web\myProject\typeScript-demo\demo" />
       <recent name="E:\web\myProject\typeScript-demo\函数" />
       <recent name="E:\web\myProject\typeScript-demo\demo\泛型" />
       <recent name="E:\web\myProject\typeScript-demo\声明文件\jquery\src" />
       <recent name="E:\web\myProject\typeScript-demo\声明文件\jquery" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\web\myProject\typeScript-demo\demo\命令空间" />
+      <recent name="E:\web\myProject\typeScript-demo\demo\枚举" />
+      <recent name="E:\web\myProject\typeScript-demo\demo\其他" />
+      <recent name="E:\web\myProject\typeScript-demo\demo\声明文件" />
+      <recent name="E:\web\myProject\typeScript-demo\demo\类型断言" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -113,23 +129,27 @@
     <option name="version" value="1" />
     <option name="exactExcludedFiles">
       <list>
-        <option value="$PROJECT_DIR$/demo/声明合并/函数合并.js" />
-        <option value="$PROJECT_DIR$/demo/类型/function-type.js" />
-        <option value="$PROJECT_DIR$/demo/声明合并/接口的合并.js" />
-        <option value="$PROJECT_DIR$/demo/类型/function-interface.js" />
-        <option value="$PROJECT_DIR$/demo/其他/字面量类型2.js" />
         <option value="$PROJECT_DIR$/demo/泛型/泛型约束.js" />
+        <option value="$PROJECT_DIR$/demo/命令空间/命令空间-取值3.js" />
+        <option value="$PROJECT_DIR$/demo/其他/字面量类型2.js" />
         <option value="$PROJECT_DIR$/demo/类型断言/ts支持if判断语句.js" />
+        <option value="$PROJECT_DIR$/demo/命令空间/命令空间-取值2.js" />
         <option value="$PROJECT_DIR$/demo/其他/字面量类型.js" />
-        <option value="$PROJECT_DIR$/demo/声明文件/jquery-type/1.js" />
-        <option value="$PROJECT_DIR$/demo/类型断言/使用类型前缀来判言.js" />
+        <option value="$PROJECT_DIR$/demo/命令空间/命令空间.js" />
+        <option value="$PROJECT_DIR$/demo/声明合并/函数合并.js" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" />
-        <option value="$PROJECT_DIR$/demo/泛型/泛型接口.js" />
-        <option value="$PROJECT_DIR$/demo/其他/Partial关键字-默认所有类型可选.js" />
-        <option value="$PROJECT_DIR$/demo/模块/1.js" />
-        <option value="$PROJECT_DIR$/demo/模块/2.js" />
+        <option value="$PROJECT_DIR$/demo/命令空间/命令空间-取值.js" />
+        <option value="$PROJECT_DIR$/demo/声明合并/接口的合并.js" />
+        <option value="$PROJECT_DIR$/demo/声明文件/jquery-type/1.js" />
+        <option value="$PROJECT_DIR$/demo/类型/function-interface.js" />
         <option value="$PROJECT_DIR$/demo/类型断言/断言在联合类型中的使用.js" />
         <option value="$PROJECT_DIR$/demo/类型断言/断言的两种方式.js" />
+        <option value="$PROJECT_DIR$/demo/类型/function-type.js" />
+        <option value="$PROJECT_DIR$/demo/泛型/泛型接口.js" />
+        <option value="$PROJECT_DIR$/demo/其他/Partial关键字-默认所有类型可选.js" />
+        <option value="$PROJECT_DIR$/demo/命令空间/命令空间-嵌套命令空间-取值1.js" />
+        <option value="$PROJECT_DIR$/demo/命令空间/命令空间-嵌套命令空间-取值2.js" />
+        <option value="$PROJECT_DIR$/demo/命令空间/命令空间-嵌套命令空间-取值3.js" />
       </list>
     </option>
   </component>
