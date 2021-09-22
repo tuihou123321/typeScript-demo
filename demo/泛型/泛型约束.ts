@@ -3,6 +3,9 @@ function getLength<T>(value:T):T {
     console.log(value.length); // 报错，value可能没有length属性
     return value;
 }
+// T是任意变量
+getLength('a'); // 正确显示
+getLength(10); // 正确显示
 
 
 
@@ -11,10 +14,25 @@ interface getLengthParams {
     length:number;
 }
 function getLength2<T extends getLengthParams>(value:T):T {
-    console.log(value.length);  // 正确显示
+    console.log(value.length);  // 正确显示， 函数定义了value具有length属性
     return value;
 }
 
 getLength2('a'); // 正确显示
-getLength2(10); // 报错，参数不符
+getLength2(10); // 报错，参数不符, number没有length属性
+
+
+//-------------------------------------------------
+
+// 使用泛型约束，参数输入时会自动报错
+interface getLengthParams2 {
+    getUid:number;
+}
+function getLength3<T extends getLengthParams2>(value:T):T {
+    console.log(value.getUid);  // 正确显示
+    return value;
+}
+
+getLength3('a'); // 正确显示
+getLength3(10); // 报错，参数不符
 
