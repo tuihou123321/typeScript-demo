@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f360a858-6d44-4bf4-a86f-9e9fd3d85c2f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demo/其他/Omit-踢出元素.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/泛型/实战antdpro.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/高级技巧/keyof.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/其他/Record关键字-类型组.ts" beforeDir="false" afterPath="$PROJECT_DIR$/demo/其他/Record关键字-类型组.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/内置对象/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo/内置对象/内置对象.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/内置对象/1.ts" beforeDir="false" afterPath="$PROJECT_DIR$/demo/内置对象/内置对象.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/泛型/泛型约束.ts" beforeDir="false" afterPath="$PROJECT_DIR$/demo/泛型/泛型约束.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/其他/Omit-踢除元素.ts" beforeDir="false" afterPath="$PROJECT_DIR$/demo/高级技巧/Omit-踢除元素.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/其他/Partial关键字-默认所有类型可选.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo/高级技巧/Partial关键字-默认所有类型可选.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/其他/Partial关键字-默认所有类型可选.ts" beforeDir="false" afterPath="$PROJECT_DIR$/demo/高级技巧/Partial关键字-默认所有类型可选.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/其他/Record关键字-类型组.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo/高级技巧/Record关键字-类型组.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/其他/Record关键字-类型组.ts" beforeDir="false" afterPath="$PROJECT_DIR$/demo/高级技巧/Record关键字-类型组.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,17 +39,18 @@
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore&#10;HTML&#10;TypeScript" />
     <property name="javascript.karma.karma_node_package_dir" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/demo/其他" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
@@ -59,6 +60,7 @@
     <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -76,6 +78,7 @@
       <recent name="E:\web\myProject\typeScript-demo\声明文件\jquery" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -107,6 +110,8 @@
       <workItem from="1627547041839" duration="686000" />
       <workItem from="1631527866737" duration="1092000" />
       <workItem from="1632187373102" duration="5191000" />
+      <workItem from="1634796447641" duration="663000" />
+      <workItem from="1635143197750" duration="1632000" />
     </task>
     <servers />
   </component>
@@ -120,27 +125,57 @@
     </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
     <option name="exactExcludedFiles">
       <list>
-        <option value="$PROJECT_DIR$/demo/声明文件/jquery-type/1.js" />
-        <option value="$PROJECT_DIR$/demo/类型断言/ts支持if判断语句.js" />
+        <option value="$PROJECT_DIR$/demo/元组/元组.js" />
+        <option value="$PROJECT_DIR$/demo/其他/字面量类型2.js" />
+        <option value="$PROJECT_DIR$/demo/其他/字面量类型.js" />
+        <option value="$PROJECT_DIR$/demo/其他/类型别名.js" />
+        <option value="$PROJECT_DIR$/demo/其他/Partial关键字-默认所有类型可选.js" />
+        <option value="$PROJECT_DIR$/demo/其他/Record关键字-类型组.js" />
+        <option value="$PROJECT_DIR$/demo/函数/函数重载.js" />
+        <option value="$PROJECT_DIR$/demo/枚举/枚举-手动修改-字符串枚举.js" />
+        <option value="$PROJECT_DIR$/demo/枚举/枚举判断-默认.js" />
+        <option value="$PROJECT_DIR$/demo/枚举/枚举-手动修改-索引.js" />
+        <option value="$PROJECT_DIR$/demo/枚举/正常枚举.js" />
+        <option value="$PROJECT_DIR$/demo/泛型/定义数组类型.js" />
+        <option value="$PROJECT_DIR$/demo/泛型/默认类型.js" />
+        <option value="$PROJECT_DIR$/demo/泛型/多个类型参数.js" />
+        <option value="$PROJECT_DIR$/demo/泛型/单个类型参数.js" />
+        <option value="$PROJECT_DIR$/demo/泛型/泛型接口.js" />
+        <option value="$PROJECT_DIR$/demo/泛型/泛型约束.js" />
+        <option value="$PROJECT_DIR$/demo/类型/类型断言.js" />
+        <option value="$PROJECT_DIR$/demo/类型/function.js" />
+        <option value="$PROJECT_DIR$/demo/类型/联合类型.js" />
+        <option value="$PROJECT_DIR$/demo/类型/array.js" />
+        <option value="$PROJECT_DIR$/demo/类型/object.js" />
+        <option value="$PROJECT_DIR$/demo/类型/类型声明.js" />
         <option value="$PROJECT_DIR$/demo/类型/function-interface.js" />
-        <option value="$PROJECT_DIR$/demo/声明合并/接口的合并.js" />
-        <option value="$PROJECT_DIR$/demo/类型断言/断言在联合类型中的使用.js" />
-        <option value="$PROJECT_DIR$/demo/命令空间/命令空间-嵌套命令空间-取值1.js" />
+        <option value="$PROJECT_DIR$/demo/类型/function-type.js" />
+        <option value="$PROJECT_DIR$/demo/操作符/typeof-获取变量类型-引用类型.js" />
+        <option value="$PROJECT_DIR$/demo/操作符/typeof-获取变量类型-基本类型.js" />
+        <option value="$PROJECT_DIR$/demo/内置对象/内置对象.js" />
         <option value="$PROJECT_DIR$/demo/命令空间/命令空间-取值2.js" />
         <option value="$PROJECT_DIR$/demo/命令空间/命令空间-取值3.js" />
-        <option value="$PROJECT_DIR$/demo/泛型/泛型接口.js" />
-        <option value="$PROJECT_DIR$/demo/命令空间/命令空间-嵌套命令空间-取值3.js" />
-        <option value="$PROJECT_DIR$/demo/其他/字面量类型2.js" />
-        <option value="$PROJECT_DIR$/demo/泛型/泛型约束.js" />
-        <option value="$PROJECT_DIR$/demo/其他/Partial关键字-默认所有类型可选.js" />
-        <option value="$PROJECT_DIR$/demo/声明合并/函数合并.js" />
-        <option value="$PROJECT_DIR$/demo/其他/字面量类型.js" />
-        <option value="$PROJECT_DIR$/demo/类型/function-type.js" />
+        <option value="$PROJECT_DIR$/demo/命令空间/命令空间-嵌套命令空间-取值1.js" />
         <option value="$PROJECT_DIR$/demo/命令空间/命令空间-嵌套命令空间-取值2.js" />
+        <option value="$PROJECT_DIR$/demo/命令空间/命令空间-嵌套命令空间-取值3.js" />
+        <option value="$PROJECT_DIR$/demo/命令空间/命令空间-取值1.js" />
+        <option value="$PROJECT_DIR$/demo/声明合并/接口的合并.js" />
+        <option value="$PROJECT_DIR$/demo/声明合并/函数合并.js" />
+        <option value="$PROJECT_DIR$/demo/声明合并/函数的合并.js" />
+        <option value="$PROJECT_DIR$/demo/声明文件/1.js" />
+        <option value="$PROJECT_DIR$/demo/声明文件/jquery/index.js" />
+        <option value="$PROJECT_DIR$/demo/声明文件/jquery/src/index.js.map" />
+        <option value="$PROJECT_DIR$/demo/声明文件/jquery/src/index.js" />
+        <option value="$PROJECT_DIR$/demo/声明文件/jquery-declare/src/index.js.map" />
+        <option value="$PROJECT_DIR$/demo/声明文件/jquery-declare/src/index.js" />
+        <option value="$PROJECT_DIR$/demo/类型断言/ts支持if判断语句.js" />
         <option value="$PROJECT_DIR$/demo/类型断言/断言的两种方式.js" />
+        <option value="$PROJECT_DIR$/demo/类型断言/断言在联合类型中的使用.js" />
+        <option value="$PROJECT_DIR$/demo/react/2.jsx" />
+        <option value="$PROJECT_DIR$/demo/react/1.jsx" />
       </list>
     </option>
   </component>
@@ -149,27 +184,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="919" y="0" width="761" height="1050" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1632190425957">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="919" y="0" width="761" height="1050" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1632190425957" />
-    <state x="498" y="282" width="683" height="486" key="find.popup" timestamp="1632189552203">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="498" y="282" width="683" height="486" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1632189552203" />
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1632189298838">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1632189298838" />
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
