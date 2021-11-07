@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f360a858-6d44-4bf4-a86f-9e9fd3d85c2f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demo/其他/Omit-踢出元素.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/泛型/实战antdpro.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/其他/Exclude排除.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/其他/Pick挑选需要的对象需要的属性.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/其他/Record关键字-类型组.ts" beforeDir="false" afterPath="$PROJECT_DIR$/demo/其他/Record关键字-类型组.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/内置对象/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo/内置对象/内置对象.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/内置对象/1.ts" beforeDir="false" afterPath="$PROJECT_DIR$/demo/内置对象/内置对象.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/泛型/泛型约束.ts" beforeDir="false" afterPath="$PROJECT_DIR$/demo/泛型/泛型约束.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +24,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
@@ -39,7 +43,6 @@
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
@@ -149,27 +152,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="919" y="0" width="761" height="1050" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1632190425957">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="919" y="0" width="761" height="1050" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1632190425957" />
-    <state x="498" y="282" width="683" height="486" key="find.popup" timestamp="1632189552203">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="498" y="282" width="683" height="486" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1632189552203" />
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1632189298838">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1632189298838" />
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
