@@ -4,7 +4,6 @@
     <list default="true" id="f360a858-6d44-4bf4-a86f-9e9fd3d85c2f" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/demo/其他/Exclude排除.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/demo/其他/Pick挑选需要的对象需要的属性.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
