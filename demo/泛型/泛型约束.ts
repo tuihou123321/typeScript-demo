@@ -26,13 +26,31 @@ getLength2(10); // 报错，参数不符, number没有length属性
 
 // 使用泛型约束，参数输入时会自动报错
 interface getLengthParams2 {
-    getUid:number;
+    name:string;
 }
 function getLength3<T extends getLengthParams2>(value:T):T {
-    console.log(value.getUid);  // 正确显示
+    console.log(value.name);  // 正确显示
     return value;
 }
 
-getLength3('a'); // 正确显示
+getLength3({
+    name:'xz'
+}); // 正确显示
 getLength3(10); // 报错，参数不符
 
+
+
+//-------------------------------------------------
+
+// [其他写法] 使用泛型约束，参数输入时会自动报错
+function getLength4<T extends {
+    name:string;
+}>(value:T):T {
+    console.log(value.name);  // 正确显示
+    return value;
+}
+
+getLength4({
+    name:'xz'
+}); // 正确显示
+getLength4(10); // 报错，参数不符
